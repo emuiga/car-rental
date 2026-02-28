@@ -38,8 +38,9 @@ yarn-error.log*
 # Postman collections — keep local only
 *.postman_collection.json
 
-# README — maintained locally, not tracked in repo
+# Local docs — not tracked in repo
 README.md
+DEVGUIDE.md
 
 # vercel
 .vercel

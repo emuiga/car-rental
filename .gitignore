@@ -35,6 +35,9 @@ yarn-error.log*
 .env.*
 !.env.example
 
+# Postman collections — keep local only
+*.postman_collection.json
+
 # vercel
 .vercel
 
